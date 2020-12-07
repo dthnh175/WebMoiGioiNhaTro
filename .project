@@ -53,4 +53,31 @@
 		<nature>org.jboss.tools.jsf.jsfnature</nature>
 		<nature>org.hibernate.eclipse.console.hibernateNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/resources/images/System/Banner-Homestay.jpg</name>
+			<type>1</type>
+			<location>D:/application/vscode/Tim_Phong_Tro/View/images/Banner-Homestay.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/resources/images/Users/duythanh1/3/homeImage1.jpg</name>
+			<type>1</type>
+			<location>D:/application/vscode/Tim_Phong_Tro/View/images/homeImage1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/resources/images/Users/duythanh1/3/homeimage3.jpg</name>
+			<type>1</type>
+			<location>D:/application/vscode/Tim_Phong_Tro/View/images/homeimage3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/resources/images/Users/duythanh1/3/homeimage4.jpg</name>
+			<type>1</type>
+			<location>D:/application/vscode/Tim_Phong_Tro/View/images/homeimage4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/resources/images/Users/duythanh1/3/homestay.jpg</name>
+			<type>1</type>
+			<location>D:/application/vscode/Tim_Phong_Tro/View/images/homestay.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>

@@ -11,5 +11,10 @@
   <property name="hibernate.show_sql">true</property>
   <mapping class="com.laptrinhnangcao.moigioinhatro.entities.LoaiPhong"/>
   <mapping class="com.laptrinhnangcao.moigioinhatro.entities.KhuVuc"/>
+  <mapping class="com.laptrinhnangcao.moigioinhatro.entities.Phong"/>
+  <mapping class="com.laptrinhnangcao.moigioinhatro.entities.PhieuDangPhong"/>
+  <mapping class="com.laptrinhnangcao.moigioinhatro.entities.Anh"/>
+  <mapping class="com.laptrinhnangcao.moigioinhatro.entities.ChuPhong"/>
+  <mapping class="com.laptrinhnangcao.moigioinhatro.entities.TienIch"/>
  </session-factory>
 </hibernate-configuration>
